@@ -8,14 +8,13 @@ html {
 }
 
 body {
-	background-color: rgba(21, 49, 100, 0.082);
+	background-color: rgba(21, 100, 41, 0.082);
 	font-family: "Lobster", cursive;
 }
 .wrapper {
 	height: 100vh;
 	display: flex;
 	text-align: center;
-	padding: 100px 0;
 }
 .container {
 	max-width: 1220px;
